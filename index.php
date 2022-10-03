@@ -1,3 +1,3 @@
 <?php
-    echo "<h1>Putra RD</h1>"
+    echo "<h1>Putra Ramadhan D</h1>"
 ?>
